@@ -22,7 +22,7 @@ description: Welcome to RBSE BOARD portal
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "rbse.edumate.life"
+url: "https://rbse.edumate.life"
 
 github:
   username: github_username # change to your GitHub username
