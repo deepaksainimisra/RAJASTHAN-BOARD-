@@ -1,3 +1,9 @@
+---
+title: Class 10 maths
+description: All formula for class 10th Chapter 3
+tags: [class 10, trigonometry, प्रश्नावली 3.1, maths, Mathematics ]
+categories: [Class 10, Mathematics]
+---
 # Trigonometry Formula Form (A + B)
 
 ## 1. Sum and Difference Formulas
