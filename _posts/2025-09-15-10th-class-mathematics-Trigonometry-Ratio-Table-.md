@@ -1,7 +1,7 @@
 ---
 title: Class 10 maths
-description:  class 10th trigonometry raito table 
-tags: [class 10,  , maths, Mathematics ]
+description: trigonometry raito table for class 10th Chapter 3
+tags: [class 10, Real trigonometry, प्रश्नावली 3, maths, Mathematics ]
 categories: [Class 10, Mathematics]
 ---
 | ∠A   | 0°            | 30°          | 45°         | 60°          | 90°          |
